@@ -9,7 +9,10 @@ function App(){
   return(
     <div>
 
-      <BucleInfinito2 />
+      <BucleCorregido1 />
+
+      <BucleCorregido2 />
+
     </div>
   )
 }
