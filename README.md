@@ -14,7 +14,11 @@
 
 // Instalar dependecias //
 1. Clonar el repositorio.
+https://github.com/danilui28/taller-bucles-infinitos
 2. Entrar en la carpeta del proyecto.
 3. Instalar las dependencias.
 4. Ejecutar el proyecto.
 5. Abrir el navegador en:
+```
+http://localhost:5173
+```
